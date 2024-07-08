@@ -1,0 +1,14 @@
+.message {
+  background: rgb(101, 131, 101);
+  text-align: left;
+  width: fit-content;
+  max-width: 90%;
+  padding: 4px;
+  border-radius: 4px;
+}
+
+.message.mine {
+  background: rgb(212, 204, 165);
+  text-align: right;
+  margin-left: auto;
+}
